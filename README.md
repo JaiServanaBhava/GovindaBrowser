@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:512BD4&height=200&section=header&text=Govinda%20Browser&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Browser%20•%20Productivity%20Hub%20•%20Offline%20Privacy%20Suite&descAlignY=55&descSize=20" width="100%" alt="Govinda Browser Banner" />
 
-<img src="./app_logo.png" width="110" alt="Govinda Browser Logo" />
+<img src="./image.png" width="200px" alt="Govinda Browser Logo" />
 
 <br /><br />
 
