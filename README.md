@@ -29,7 +29,7 @@ Built on C# 11.0, .NET 8.0 WinForms, and Microsoft WebView2 (Chromium) — Govin
 <br />
 
 <!-- 🔽 BIG DOWNLOAD BUTTON — replace YOUR_GOOGLE_DRIVE_LINK below with your real share link 🔽 -->
-<a href="https://drive.google.com/YOUR_GOOGLE_DRIVE_LINK" target="_blank">
+<a href="https://github.com/JaiServanaBhava/GovindaBrowser/releases/download/V1.0/Govinda.Browser.exe" target="_blank">
   <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20GOVINDA%20BROWSER%20v3.0-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a73e8&color=34A853" height="55" alt="Download from Google Drive" />
 </a>
 
@@ -322,7 +322,7 @@ All browsing, vault, and processing operations run **100% locally**. No telemetr
 
 <div align="center">
 
-<a href="https://drive.google.com/YOUR_GOOGLE_DRIVE_LINK" target="_blank">
+<a href="https://github.com/JaiServanaBhava/GovindaBrowser/releases/download/V1.0/Govinda.Browser.exe" target="_blank">
   <img src="https://img.shields.io/badge/⬇%20GET%20GOVINDA%20BROWSER%20NOW-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a73e8&color=34A853" height="50" alt="Download from Google Drive" />
 </a>
 
