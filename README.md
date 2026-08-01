@@ -46,7 +46,7 @@ Built on C# 11.0, .NET 8.0 WinForms, and Microsoft WebView2 (Chromium) — Govin
   <a href="#-faq">FAQ</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/yourusername/govinda-browser/main/assets/screenshot-main.png" width="850" alt="Govinda Browser Screenshot" />
+<img src="./ScreenShot.png" width="850" alt="Govinda Browser Screenshot" />
 
 </div>
 
